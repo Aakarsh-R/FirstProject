@@ -1,0 +1,5 @@
+### This is the first project that is being created for GitHub.
+
+I'm trying to know all the different things and try them.
+So this project would contain only one file.
+And the file would contain some python codes in it.
